@@ -5,7 +5,7 @@ Visualization of Olympic Games
 
 ### Distribution of Height for Summer and Winter Olympic Athletes (1896-2016)
 
-#### Line Chart
+#### Line Charts
 
 ![Line Height Season Distribution](plots/height_season_line.png)
 
@@ -14,3 +14,7 @@ Visualization of Olympic Games
 ![Line Height Summer Gender Distribution](plots/height_summer_gender_line.png)
 
 ![Line Height Winter Gender Distribution](plots/height_winter_gender_line.png)
+
+#### Histograms and Area Charts
+
+![Height Binned Distribution](plots/height_histogram.png)
