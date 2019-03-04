@@ -7,4 +7,10 @@ Visualization of Olympic Games
 
 #### Line Chart
 
-![Line Height Distribution](plots/height_line.png)
+![Line Height Season Distribution](plots/height_season_line.png)
+
+![Line Height Gender Distribution](plots/height_gender_line.png)
+
+![Line Height Summer Gender Distribution](plots/height_summer_gender_line.png)
+
+![Line Height Winter Gender Distribution](plots/height_winter_gender_line.png)
