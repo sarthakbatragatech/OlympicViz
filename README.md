@@ -1,4 +1,5 @@
 # OlympicViz
+
 Visualization of Olympic Games
 
 ## Height Analysis
@@ -18,3 +19,11 @@ Visualization of Olympic Games
 #### Histograms and Area Charts
 
 ![Height Binned Distribution](plots/height_histogram.png)
+
+![Height Area Gender Distribution](plots/height_gender_area.png)
+
+![Height Area Season Distribution](plots/height_season_area.png)
+
+![Height Area Summer Gender Distribution](plots/height_summer_gender_area.png)
+
+![Height Area Winter Gender Distribution](plots/height_winter_gender_area.png)
