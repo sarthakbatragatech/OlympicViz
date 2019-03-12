@@ -53,3 +53,7 @@ Visualization of Olympic Games
 ![Weight Area Summer Gender Distribution](plots/weight/weight_summer_gender_area.png)
 
 ![Weight Area Winter Gender Distribution](plots/weight/weight_winter_gender_area.png)
+
+## Height and Weight Jointplot
+
+![Height Weight Jointplot](plots/weight/height_weight_joint.png)
