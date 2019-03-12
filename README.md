@@ -63,3 +63,5 @@ Visualization of Olympic Games
 ![Rise in female participation percentage](plots/gender/female_percentage.png)
 
 ![Rise in female participation numbers](plots/gender/female_participation.png)
+
+![Year wise breakdown of gender participation](plots/gender/male_female_participation.png)
