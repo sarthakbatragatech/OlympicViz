@@ -57,3 +57,9 @@ Visualization of Olympic Games
 ## Height and Weight Jointplot
 
 ![Height Weight Jointplot](plots/weight/height_weight_joint.png)
+
+## Gender Equality in the Olympics
+
+![Rise in female participation percentage](plots/gender/female_percentage.png)
+
+![Rise in female participation numbers](plots/gender/female_participation.png)
