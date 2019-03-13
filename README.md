@@ -65,3 +65,9 @@ Visualization of Olympic Games
 ![Rise in female participation numbers](plots/gender/female_participation.png)
 
 ![Year wise breakdown of gender participation](plots/gender/male_female_participation.png)
+
+## Basketball Medals by Country
+
+![Men's Basketball](plots/medals/men_basketball.png)
+
+![Women's Basketball](plots/medals/women_basketball.png)
