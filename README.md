@@ -71,3 +71,7 @@ Visualization of Olympic Games
 ![Men's Basketball](plots/medals/men_basketball.png)
 
 ![Women's Basketball](plots/medals/women_basketball.png)
+
+## Streamgraph of Summer Olympic Medals
+
+![Top Countries](plots/medals/streamgraph_top.png)
