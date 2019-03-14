@@ -72,6 +72,8 @@ Visualization of Olympic Games
 
 ![Women's Basketball](plots/medals/women_basketball.png)
 
-## Streamgraph of Summer Olympic Medals
+## Top Medal Winning Countries at Summer Olympics
 
-![Top Countries](plots/medals/streamgraph_top.png)
+![Top Countries Streamgraph](plots/medals/streamgraph_top.png)
+
+![Top Countries Area](plots/medals/area_top.png)
