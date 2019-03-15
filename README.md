@@ -77,3 +77,7 @@ Visualization of Olympic Games
 ![Top Countries Streamgraph](plots/medals/streamgraph_top.png)
 
 ![Top Countries Area](plots/medals/area_top.png)
+
+## Athletics Medal Distribution by Country and Gender
+
+![Countries Gender](plots/countries/athletics_medal_country_gender.png)
